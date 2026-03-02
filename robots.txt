@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://werewolf3d.com/sitemap.xml
